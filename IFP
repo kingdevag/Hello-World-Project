@@ -1,0 +1,20 @@
+[[Hello world project code tracking]]
+url = "https://github.com/kingdevag/Hello-World-Project"
+name = "PYHW"
+
+[development environment]
+pipenv = ("*", (version = 2021.11.23))
+python = ("**, (version = 3.9.6))
+
+[requires]
+python_version="3.9.6"
+
+[packages]
+pipenv = ("*", (version=2021.11.23))
+pip = ("*", (version=21.3.1))
+pyautogui = ("*", (version=0.9.53))
+
+def tracking()
+def HW = tracking
+
+tracking():
